@@ -30,14 +30,10 @@ MongoDB Atals:
 
 # Screenshots
 
-### Here's a screenshot of the finished home page page.
+### Here's a screenshot of the finished home page.
 
-![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot1.png)
+![Here's a screenshot of the answer alerts.](./images/index_screenshot.png)
 
-### Here's a screenshot of the finished new workout page.
+### Here's a screenshot of the application with data.
 
-![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot2.png)
-
-### Here's a screenshot of the finished dashboard page.
-
-![Here's a screenshot of the answer alerts.](./public/images/fitness_screenshot3.png)
+![Here's a screenshot of the answer alerts.](./images/budget_data_screenshot.png)
